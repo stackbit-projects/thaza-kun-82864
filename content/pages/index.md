@@ -90,7 +90,7 @@ sections:
         style: button
 seo:
   title: Thaza-Kun
-  description: The preview of the Exto theme
+  description: Portfolio Murthadza bin Aznam
   extra:
     - name: 'og:type'
       value: website
