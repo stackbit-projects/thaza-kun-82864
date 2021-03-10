@@ -2,7 +2,7 @@
 title: Utama
 hide_title: true
 sections:
-  - section_id: hero
+  - section_id: nama-penulis
     type: section_hero
     title: Murthadza bin Aznam
     content: >-
